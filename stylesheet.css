@@ -4,3 +4,6 @@ html{
 p{
   background-color: #cc8080;
 }
+a{
+  border-radius: 5px
+}
