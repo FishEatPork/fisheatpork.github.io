@@ -3,6 +3,8 @@ html{
 }
 p{
   background-color: #808080;
+  font-family:  Arial; 
+  text-align: left;
 }
 a{
   text-align: center
