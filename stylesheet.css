@@ -1,20 +1,51 @@
-html{
-  background-color: #808080;
+html, body {
+  font-family: sans-serif;
+  margin: 0;
+  width: 100%;
+  height: 100%;
 }
-p{
-  background-color: #A9A9A9;
-  font-family:  Arial; 
-  text-align: left;
+
+h1 {
+  font-size: 48px;
 }
-a{
-  text-align: center
+
+p {
+  max-width: 65%;
+  min-width: 500px;
 }
-nav {
+
+h2 {
+  text-align: center;
+  font-size: 2.6rem;
+}
+
+div {
+  padding-right: 30px;
+  height: 100%;
+  width: 100%;
+}
+
+video {
+  background-color: #000000;
+  border: 2px solid black;
+}
+
+.container {
+  display: flex;
+}
+
+.main {
+  padding-left: 30px;
+  min-width: 75%;
+}
+
+.nav {
   background-color: #FFEE00;
   max-width: 25%;
   min-width: 140px;
   flex: 1;
 }
-container {
-  display: flex;
+
+.nav h1 {
+  padding-left: 20px;
 }
