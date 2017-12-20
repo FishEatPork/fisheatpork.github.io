@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Julian Barbera</title>
+  <title>Barbera Labs</title>
   <meta charset="utf-8"/>
   <link rel="stylesheet" type="text/css" href="stylesheet.css">
 </head>
@@ -11,13 +11,9 @@
   <h2>Julian</h2>
   <ul>
 	  <li><a href="/">Home.</a></li>
-    <li><a href="/hello.html">Hello. </a></li>
-    <li><a href="/aboutmyself.html">About Myself. </a></li>
-    <li><a href="/myhobbies.html">My Hobbies. </a></li>
 	</ul>
     </div>
   <div class="main">
-  <h1>Julian Barbera</h1>
   
     </div>
 </body>
