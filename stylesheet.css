@@ -41,8 +41,8 @@ video {
 
 .nav {
   background-color: #00a0fe;
-  max-width: 25%;
-  min-width: 140px;
+  max-height: 25%;
+  min-height: 140px;
   flex: 1;
 }
 
