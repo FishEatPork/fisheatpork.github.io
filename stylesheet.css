@@ -40,6 +40,9 @@ video {
 }
 
 .nav {
+  position: fixed;
+  top: 0;
+  width: 100%;
   background-color: #00a0fe;
   max-height: 25%;
   min-height: 140px;
